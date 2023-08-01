@@ -7,7 +7,7 @@ that will increase my grasp of search engine and Rust programming.
 
 ### Tokenizer
 
-- [ ] Space based
+- [x] Space based
 - [ ] BPE
 
 ### Search Engine
